@@ -303,6 +303,7 @@ img {
         align-items: flex-start;
         justify-content: space-between; 
         text-indent: 70px;
+        white-space: pre;
 
     }
 
